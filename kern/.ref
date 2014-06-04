@@ -1,0 +1,166 @@
+
+@dummy	079	<br><font size=+1><b>Quartetti Milanesi</b></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K. 80 & K. 155-160 (1770-1773)<hr noshade align=left width=500>
+
+@080a:080b:080c:080d	080-0	<not>String</not> Quartet No. 1 in G Major, K 80/73f (1770)
+k080-01.krn	080a	1. <hlstart>Adagio<hlend>
+k080-02.krn	080b	2. <hlstart>Allegro<hlend>
+k080-03.krn	080c	3. <hlstart>Menuetto<hlend>
+k080-04.krn	080d	4. <hlstart>Rondo<hlend>
+
+@155a:155b:155c	155-0	<not>String</not> Quartet No. 2 in D Major, K 155/134a (1772)
+k155-01.krn	155a	1. <hlstart>Allegro<hlend>
+k155-02.krn	155b	2. <hlstart>Andante<hlend>
+k155-03.krn	155c	3. <hlstart>Molto allegro<hlend>
+
+@156a:156b:156c	156-0	<not>String</not> Quartet No. 3 in G Major, K 156/134b (1772)
+k156-01.krn	156a	1. <hlstart>Presto<hlend>
+k156-02.krn	156b	2. <hlstart>Adagio<hlend>
+k156-03.krn	156c	3. <hlstart>Tempo di Menuetto<hlend>
+
+@157a:157b:157c	157-0	<not>String</not> Quartet No. 4 in C Major, K 157 (1772-3)
+k157-01.krn	157a	1. <hlstart>Allegro<hlend>
+k157-02.krn	157b	2. <hlstart>Andante<hlend>
+k157-03.krn	157c	3. <hlstart>Presto<hlend>
+
+@158a:158b:158c	158-0	<not>String</not> Quartet No. 5 in F Major, K 158 (1772-3)
+k158-01.krn	158a	1. <hlstart>Allegro<hlend>
+k158-02.krn	158b	2. <hlstart>Andante un poco allegretto<hlend>
+k158-03.krn	158c	3. <hlstart>Tempo di Minuetto<hlend>
+
+@159a:159b:159c	159-0	<not>String</not> Quartet No. 6 in B-flat Major, K 159 (1773)
+k159-01.krn	159a	1. <hlstart>Andante<hlend>
+k159-02.krn	159b	2. <hlstart>Allegro assai<hlend>
+k159-03.krn	159c	3. <hlstart>Rondo: Allegro grazioso<hlend>
+
+@160a:160b:160c	160-0	<not>String</not> Quartet No. 7 in E-flat Major, K 160/159a (1773)
+k160-01.krn	160a	1. <hlstart>Allegro<hlend>
+k160-02.krn	160b	2. <hlstart>Un poco adagio<hlend>
+k160-03.krn	160c	3. <hlstart>Presto<hlend>
+
+@dummy	167	<br><font size=+1><b>Vienna Quartets</b></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K. 168-173 (1773)<hr noshade align=left width=500>
+
+
+@168a:168b:168c:168d	168-0	<not>String</not> Quartet No. 8 in F Major, K 168 (1773)
+k168-01.krn	168a	1. <hlstart>Allegro<hlend>
+k168-02.krn	168b	2. <hlstart>Andante<hlend>
+k168-03.krn	168c	3. <hlstart>Menuetto<hlend>
+k168-04.krn	168d	4. <hlstart>Allegro<hlend>
+
+@169a:169b:169c:169d	169-0	<not>String</not> Quartet No. 9 in A Major, K 169 (1773)
+k169-01.krn	169a	1. <hlstart>Molto allegro<hlend>
+k169-02.krn	169b	2. <hlstart>Andante<hlend>
+k169-03.krn	169c	3. <hlstart>Menuetto<hlend>
+k169-04.krn	169d	4. <hlstart>Rondeau: Allegro<hlend>
+
+@170a:170b:170c:170d	170-0	<not>String</not> Quartet No. 10 in C Major, K 170 (1773)
+k170-01.krn	170a	1. <hlstart>Andante<hlend>
+k170-02.krn	170b	2. <hlstart>Menuetto<hlend>
+k170-03.krn	170c	3. <hlstart>Un poco adagio<hlend>
+k170-04.krn	170d	4. <hlstart>Rondo: Allegro<hlend>
+
+@171a:171b:171c:171d	171-0	<not>String</not> Quartet No. 11 in E-flat Major, K 171 (1773)
+k171-01.krn	171a	1. <hlstart>Adagio - Allegro assai - Adagio <hlend>
+k171-02.krn	171b	2. <hlstart>Menuetto<hlend>
+k171-03.krn	171c	3. <hlstart>Andante<hlend>
+k171-04.krn	171d	4. <hlstart>Allegro assai<hlend>
+
+@172a:172b:172c:172d	172-0	<not>String</not> Quartet No. 12 in B-flat Major, K 172 (1773)
+k172-01.krn	172a	1. <hlstart>Allegro spiritoso<hlend>
+k172-02.krn	172b	2. <hlstart>Adagio<hlend>
+k172-03.krn	172c	3. <hlstart>Menuetto<hlend>
+k172-04.krn	172d	4. <hlstart>Allegro assai<hlend>
+
+@173a:173b:173c:173d	173-0	<not>String</not> Quartet No. 13 in D Minor, K 173 (1773)
+k173-01.krn	173a	1. <hlstart>Allegro moderato<hlend>
+k173-02.krn	173b	2. <hlstart>Andantino Grazioso<hlend>
+k173-03.krn	173c	3. <hlstart>Menuetto<hlend>
+k173-04.krn	173d	4. <hlstart>Allegro moderato<hlend>
+
+@dummy	283	
+@dummy	284	<hr noshade align=left width=500>
+
+k285-01.krn	285a	String Quartet, K.285, Mvmt.1
+k285-02.krn	285b	String Quartet, K.285, Mvmt.2
+k285-03.krn	285c	String Quartet, K.285, Mvmt.3
+
+k298-01.krn	298a	String Quartet, K.298, Mvmt.1
+k298-02.krn	298b	String Quartet, K.298, Mvmt.2
+k298-03.krn	298c	String Quartet, K.298, Mvmt.3
+
+k370-01.krn	370a	String Quartet, K.370, Mvmt.1
+k370-02.krn	370b	String Quartet, K.370, Mvmt.2
+k370-03.krn	370c	String Quartet, K.370, Mvmt.3
+
+@dummy	386	<br><font size=+1><b>Haydn Quartets</b></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K. 387, 421, 428, 458, 464, 465 (1782-1785)<hr noshade align=left width=500>
+
+@387a:387b:387c:387d	387-0	<not>String</not> Quartet No. 14 in G Major, K 387 (1782) [<small><a href=http://en.wikipedia.org/wiki/String_Quartet_No._14_%28Mozart%29>Wikipedia</a></small>]
+k387-01.krn	387a	1. <hlstart>Allegro vivace assai<hlend>
+k387-02.krn	387b	2. <hlstart>Menuetto<hlend>
+k387-03.krn	387c	3. <hlstart>Andante cantabile<hlend>
+k387-04.krn	387d	4. <hlstart>Molto allegro<hlend>
+
+@421a:421b:421c:421d	421-0	<not>String</not> Quartet No. 15 in D Minor, K 421/417b (1783)
+k421-01.krn	421a	1. <hlstart>Allegro<hlend>
+k421-02.krn	421b	2. <hlstart>Andante<hlend>
+k421-03.krn	421c	3. <hlstart>Menuetto: Allegro<hlend>
+k421-04.krn	421d	4. <hlstart>Allegro ma non troppo - Pi&ugrave; Allegro<hlend>
+
+@428a:428b:428c:428d	428-0	<not>String</not> Quartet No. 16 in E-flat Major, K 428/421b (1783)
+k428-01.krn	428a	1. <hlstart>Allegro non troppo<hlend>
+k428-02.krn	428b	2. <hlstart>Andante con moto<hlend>
+k428-03.krn	428c	3. <hlstart>Menuetto<hlend>
+k428-04.krn	428d	4. <hlstart>Allegro<hlend>
+
+@458a:458b:458c:458d	458-0	<not>String</not> Quartet No. 17 in B-flat Major, "<i>Hunt</i>", K 458 (1784)
+k458-01.krn	458a	1. <hlstart>Allegro vivace assai<hlend>
+k458-02.krn	458b	2. <hlstart>Menuetto: Moderato<hlend>
+k458-03.krn	458c	3. <hlstart>Adagio<hlend>
+k458-04.krn	458d	4. <hlstart>Allegro assai<hlend>
+
+@464a:464b:464c:464d	464-0	<not>String</not> Quartet No. 18 in A Major, K 464 (1785)
+k464-01.krn	464a	1. <hlstart>Allegro<hlend>
+k464-02.krn	464b	2. <hlstart>Menuetto<hlend>
+k464-03.krn	464c	3. <hlstart>Andante<hlend>
+k464-04.krn	464d	4. <hlstart>Allegro non troppo<hlend>
+
+@465a:465b:465c:465d	465-0	<not>String</not> Quartet No. 19 in C Major, "<i>Dissonance</i>", K 465 (1785)
+k465-01.krn	465a	1. <hlstart>Adagio<hlend>
+k465-02.krn	465b	2. <hlstart>Andante cantabile<hlend>
+k465-03.krn	465c	3. <hlstart>Menuetto: Allegro<hlend>
+k465-04.krn	465d	4. <hlstart>Allegro molto<hlend>
+
+@dummy	497	
+@dummy	498	<hr noshade align=left width=500>
+
+@499a:499b:499c:499d	499-0	<not>String</not> Quartet No. 20 in D Major, "<i>Hoffmeister</i>", K 499 (1786) [<small><a href=http://en.wikipedia.org/wiki/String_Quartet_in_D_major_K499_%28Mozart%29>Wikipedia</a></small>]
+k499-01.krn	499a	1. <hlstart>Allegretto<hlend>
+k499-02.krn	499b	2. <hlstart>Menuetto: Allegretto<hlend>
+k499-03.krn	499c	3. <hlstart>Adagio<hlend>
+k499-04.krn	499d	4. <hlstart>Allegro<hlend>
+
+@dummy	545	
+
+k546-01.krn	546a	Adagio and Fugue in C Minor, K. 546, Mvmt.1 (Adagio)
+k546-02.krn	546b	Adagio and Fugue in C Minor, K. 546, Mvmt.2 (Fugue)
+
+@dummy	574	<br><font size=+1><b>Prussian Quartets</b></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K. 575, 589, 590 (1789-1790)<hr noshade align=left width=500>
+
+
+@575a:575b:575c:575d	575-0	<not>String</not> Quartet No. 21 in D Major, K 575 (1789)
+k575-01.krn	575a	1. <hlstart>Allegretto<hlend>
+k575-02.krn	575b	2. <hlstart>Andante<hlend>
+k575-03.krn	575c	3. <hlstart>Menuetto: Allegro<hlend>
+k575-04.krn	575d	4. <hlstart>Allegretto<hlend>
+
+@589a:589b:589c:589d	589-0	<not>String</not> Quartet No. 22 in B-flat Major, K 589 (1790)
+k589-01.krn	589a	1. <hlstart>Allegro<hlend>
+k589-02.krn	589b	2. <hlstart>Larghetto<hlend>
+k589-03.krn	589c	3. <hlstart>Menuetto: Moderato<hlend>
+k589-04.krn	589d	4. <hlstart>Allegro assai<hlend>
+
+@590a:590b:590c:590d	590-0	<not>String</not> Quartet No. 23 in F Major, K 590 (1790)
+k590-01.krn	590a	1. <hlstart>Allegro moderato<hlend>
+k590-02.krn	590b	2. <hlstart>Andante<hlend>
+k590-03.krn	590c	3. <hlstart>Menuetto: Allegretto<hlend>
+k590-04.krn	590d	4. <hlstart>Allegro<hlend>
+
