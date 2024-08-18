@@ -1,19 +1,21 @@
+!!!!SEGMENT: k171-01.krn
 !!!COM: Mozart, Wolfgang Amadeus
 !!!OTL: String Quartet No. 11 in E-flat Major
 !!!OMD: Adagio
 !!!OMV: 1a
 !!!SCT1: K<sup>1</sup> 171
-!!!SCA: Chronologisch-thematisches Verzeichnis sämtlicher Tonwerke Wolfgang Amade Mozarts (L. von Köchel; 1862, 2/1905, 3/1937, 1947)
+!!!SCA: Chronologisch-thematisches Verzeichnis sÃ¤mtlicher Tonwerke Wolfgang Amade Mozarts (L. von KÃ¶chel; 1862, 2/1905, 3/1937, 1947)
 !!!SCT2: K<sup>6</sup> 171
-!!!YOR: Breitkopf & Härtel Edition
+!!!YOR: Breitkopf & HÃ¤rtel Edition
 !!!ENC: Frances Bennion
 !!!CDT: 1756/1/27/-1791/12/5/
-!!!OCY: Österreich
+!!!OCY: Ã–sterreich
 !!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
 !!!YEM: Rights to all derivative editions reserved.
 !!!YEM: Refer to licensing agreement for further details.
 !!!YEN: United States of America
 **kern	**kern	**kern	**kern
+*staff4	*staff3	*staff2	*staff1
 *k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
 *E-:	*E-:	*E-:	*E-:
 *clefC	*clefF	*clefG	*clefG

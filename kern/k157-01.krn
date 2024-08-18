@@ -1,20 +1,22 @@
+!!!!SEGMENT: k157-01.krn
 !!!COM: Mozart, Wolfgang Amadeus
 !!!OTL: String Quartet No. 4 in C Major
 !!!OMD: Allegro
 !!!OMV: 1
 !!!SCT1: K<sup>1</sup> 157
-!!!SCA: Chronologisch-thematisches Verzeichnis sämtlicher Tonwerke Wolfgang Amade Mozarts (L. von Köchel; 1862, 2/1905, 3/1937, 1947)
+!!!SCA: Chronologisch-thematisches Verzeichnis sÃ¤mtlicher Tonwerke Wolfgang Amade Mozarts (L. von KÃ¶chel; 1862, 2/1905, 3/1937, 1947)
 !!!SCT2: K<sup>6</sup> 157
-!!!YOR: Breitkopf & Härtel Edition
+!!!YOR: Breitkopf & HÃ¤rtel Edition
 !!!ENC: Edmund Correia, Jr.
 !!!CDT: 1756/1/27/-1791/12/5/
-!!!OCY: Österreich
+!!!OCY: Ã–sterreich
 !!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
 !!!YEM: Rights to all derivative editions reserved.
 !!!YEM: Refer to licensing agreement for further details.
 !!!YEN: United States of America
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
-*I:Violoncello	*I:Violoncello	*I:Viola	*I:Viola	*I:Violino 2	*I:Violino 2	*I:Violino 1	*I:Violino 1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violino 2	*I"Violino 2	*I"Violino 1	*I"Violino 1
 *>[A,A,B,B]	*	*>[A,A,B,B]	*	*>[A,A,B,B]	*	*>[A,A,B,B]	*
 *>A	*	*>A	*	*>A	*	*>A	*
 *clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*

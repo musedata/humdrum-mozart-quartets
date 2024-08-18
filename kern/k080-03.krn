@@ -1,3 +1,4 @@
+!!!!SEGMENT: k080-03.krn
 !!!COM: Mozart, Wolfgang Amadeus
 !!!CDT: 1756/01/27-1791/12/05
 !!!OTL: String Quartet No. 1 in G Major
@@ -5,6 +6,8 @@
 !!!OMD: Menuetto
 !!!SCT: K 80
 **kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violino II	*I"Violino II	*I"Violino I	*I"Violino I
 *Icello	*Icello	*Iviola	*Iviola	*Ivioln	*Ivioln	*Ivioln	*Ivioln
 *>[A,A,B,B,C,A,A,B,B,C,D,D,E]	*>[A,A,B,B,C,A,A,B,B,C,D,D,E]	*>[A,A,B,B,C,A,A,B,B,C,D,D,E]	*>[A,A,B,B,C,A,A,B,B,C,D,D,E]	*>[A,A,B,B,C,A,A,B,B,C,D,D,E]	*>[A,A,B,B,C,A,A,B,B,C,D,D,E]	*>[A,A,B,B,C,A,A,B,B,C,D,D,E]	*>[A,A,B,B,C,A,A,B,B,C,D,D,E]
 *>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
@@ -276,7 +279,7 @@
 ==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
 *>E	*>E	*>E	*>E	*>E	*>E	*>E	*>E
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!YOR: Breitkopf & Härtel Edition
+!!!YOR: Breitkopf & HÃ¤rtel Edition
 !!!ENC: Edmund Correia, Jr.
 !!!OCY: Italia
 !!!OPC: Loti near Milan
@@ -288,7 +291,7 @@
 !!!YEM: Rights to all derivative editions reserved.
 !!!YEM: Refer to licensing agreement for further details.
 !!!YEN: United States of America
-!!!SCA: Chronologisch-thematisches Verzeichnis sämtlicher Tonwerke Wolfgang Amade Mozarts (L. von Köchel; 1862, 2/1905, 3/1937, 1947)
+!!!SCA: Chronologisch-thematisches Verzeichnis sÃ¤mtlicher Tonwerke Wolfgang Amade Mozarts (L. von KÃ¶chel; 1862, 2/1905, 3/1937, 1947)
 !!!EMD: Converted from MuseData to Humdrum Dec 16, 2000, by Andreas Kornstaedt using muse2kern.
 !!!EMD: Manual editing by Craig Sapp, Nov 2001
 !!!RWG: Appoggiaturas of spine 'Violino I' need manual editing in measures: 3, 23, 36, 52
